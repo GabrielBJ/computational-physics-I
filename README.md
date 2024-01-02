@@ -1,4 +1,4 @@
-# COMPUTATINAL PHYSICS I NOTES 
+# COMPUTATIONAL PHYSICS I NOTES 
 
 Hi, I'm Gabriel Balarezo, and welcome to my repository for sharing notes and tips related to the Computational Physics I course. This collection is designed to aid fellow students in their learning journey. Please feel free to explore the notes posted here, and if you have any questions, suggestions for improvements, or corrections, don't hesitate to open a pull request.
 
