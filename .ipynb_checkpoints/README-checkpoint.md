@@ -27,4 +27,5 @@ Your contributions are highly appreciated. If you find any errors, have suggesti
 Let's work together to enhance this resource and make it even more valuable for the Computational Physics I community.
     
 Happy coding and learning!
+
 Gabriel Balarezo
